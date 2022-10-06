@@ -1,1 +1,1 @@
-# lab-agile-e-commerce
+# agile-final-project
